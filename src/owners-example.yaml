@@ -1,0 +1,10 @@
+Owners:
+  - Name: Primagen
+    Packages:
+      - Neovim
+  - Name: Randal
+    Package: Github
+  - Name: Hideo Kojima
+    Packages:
+      - Metal Gear Solid
+      - Death Stranding
